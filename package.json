@@ -1,0 +1,1 @@
+{"name":"block-hunt-3d","version":"1.0.0","private":true,"description":"Block Hunt 3D web multiplayer MVP","scripts":{"start":"node server.js","test":"node --test"},"dependencies":{"bcryptjs":"^2.4.3","express":"^4.21.2","socket.io":"^4.8.1","better-sqlite3":"^11.5.0"}}
